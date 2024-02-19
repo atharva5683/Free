@@ -1,1 +1,1 @@
-conslog.log("Hello")
+const pair = "Extraordinatirs";
